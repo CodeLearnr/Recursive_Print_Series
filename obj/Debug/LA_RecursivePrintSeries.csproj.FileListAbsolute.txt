@@ -1,0 +1,14 @@
+D:\All files\Bow Valley\SODV9104\HW\LA_RecursivePrintSeries\bin\Debug\LA_RecursivePrintSeries.exe.config
+D:\All files\Bow Valley\SODV9104\HW\LA_RecursivePrintSeries\bin\Debug\LA_RecursivePrintSeries.exe
+D:\All files\Bow Valley\SODV9104\HW\LA_RecursivePrintSeries\bin\Debug\LA_RecursivePrintSeries.pdb
+D:\All files\Bow Valley\SODV9104\HW\LA_RecursivePrintSeries\obj\Debug\LA_RecursivePrintSeries.csproj.AssemblyReference.cache
+D:\All files\Bow Valley\SODV9104\HW\LA_RecursivePrintSeries\obj\Debug\LA_RecursivePrintSeries.csproj.CoreCompileInputs.cache
+D:\All files\Bow Valley\SODV9104\HW\LA_RecursivePrintSeries\obj\Debug\LA_RecursivePrintSeries.exe
+D:\All files\Bow Valley\SODV9104\HW\LA_RecursivePrintSeries\obj\Debug\LA_RecursivePrintSeries.pdb
+D:\All files\Bow Valley\SODV9104\HW\LA27_RecursivePrintSeries\bin\Debug\LA_RecursivePrintSeries.exe.config
+D:\All files\Bow Valley\SODV9104\HW\LA27_RecursivePrintSeries\bin\Debug\LA_RecursivePrintSeries.exe
+D:\All files\Bow Valley\SODV9104\HW\LA27_RecursivePrintSeries\bin\Debug\LA_RecursivePrintSeries.pdb
+D:\All files\Bow Valley\SODV9104\HW\LA27_RecursivePrintSeries\obj\Debug\LA_RecursivePrintSeries.csproj.AssemblyReference.cache
+D:\All files\Bow Valley\SODV9104\HW\LA27_RecursivePrintSeries\obj\Debug\LA_RecursivePrintSeries.csproj.CoreCompileInputs.cache
+D:\All files\Bow Valley\SODV9104\HW\LA27_RecursivePrintSeries\obj\Debug\LA_RecursivePrintSeries.exe
+D:\All files\Bow Valley\SODV9104\HW\LA27_RecursivePrintSeries\obj\Debug\LA_RecursivePrintSeries.pdb
